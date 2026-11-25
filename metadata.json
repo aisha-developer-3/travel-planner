@@ -1,0 +1,6 @@
+{
+  "name": "Travel Planner",
+  "description": "A personal travel management workspace to plan trips, itineraries, bookings, packing lists, budgets, documents, and travel notes offline and on any device.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
